@@ -1,4 +1,4 @@
-# Improving Project Security in CI/CD
+# Improving Project Security in Your CI Pipeline
 ## Description
 Security scanning in a project pipeline is almost always one of the last things that is considered and added by organizations, large and small. Why? Because it's viewed that incorporation of appsec tooling into a CI pipeline is either expensive or difficult - cost of tooling, time spent in a sprint to add the tooling, and so on. I'm here to help assure you that adding low-cost (or no-cost!) tools can be approachable and doable to ensure greater security in your application.
 
