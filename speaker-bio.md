@@ -1,0 +1,1 @@
+Brenna Flood is a technical leader and co-organizer of the Open Source and Feelings conference. Her technical passions are at the cross-section of DevOps, Security, and Quality Assurance. She lives in Seattle, WA with her partner, a doggo, and a kitty. 
