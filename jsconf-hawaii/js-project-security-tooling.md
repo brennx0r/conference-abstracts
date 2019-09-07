@@ -15,10 +15,10 @@ For the last point of discussion, we'll walk through various examples of setup i
 ## Other Notes for Organizers
 
 ## Talk Timings
-0:00 - 0:05   Introduction to speaker; ice-breaker.
-0:05 - 0:10   Overview of security issues (light discussion about OSI model, focus on appsec issues)
-0:10 - 0:15   Overview of tools (pros, cons, cost..)
-0:15 - 0:30   Demos! Using the tools within local dev. How to set up tools in CI pipeline examples
+- 0:00 - 0:05   Introduction to speaker; ice-breaker.
+- 0:05 - 0:10   Overview of security issues (light discussion about OSI model, focus on appsec issues)
+- 0:10 - 0:15   Overview of tools (pros, cons, cost..)
+- 0:15 - 0:30   Demos! Using the tools within local dev. How to set up tools in CI pipeline examples
 
 
 ## Talk Tags
