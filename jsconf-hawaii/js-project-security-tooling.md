@@ -16,7 +16,7 @@ For the last point of discussion, we'll walk through various examples of setup i
 
 ## Other Notes for Organizers
 1. I am not a sales person and am not paid by any of the commercial companies mentioned in the talk. I just care about this problem set a lot.
-1. The Demos will be video-recorded to ensure that the timings are solid and there's no "oops!" moments on stage.
+1. The demos will be video-recorded to ensure that the timings are solid and there's no "oops!" moments on stage.
 
 ## Talk Timings
 - 0:00 - 0:05   Introduction to speaker; ice-breaker.
